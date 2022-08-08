@@ -1,10 +1,7 @@
 **Bookshop Refactoring Steps:**
 
 Checkout the [master](https://gitlab.com/tw-he-dev-bootcamp/base-repos/book-shop-refactor.git) branch.
-Start by running all BookIntegrationTest. While performing the below steps ensure that the integration test always passed. Some of the BookControllerTest or BookServiceTest might change. 
-
-You can find the refactored solution on the [all-tests-kinda-passing](https://gitlab.com/tw-he-dev-bootcamp/base-repos/book-shop-refactor/-/commits/all-tests-kinda-passing) branch for reference. 
-
+Start by running all BookIntegrationTest. While performing the below steps ensure that the integration test always passed. Some of the BookControllerTest or BookServiceTest might change.
 
 1. Extract Book parsing logic into BookparserTest. 
 
